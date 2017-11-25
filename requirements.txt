@@ -2,7 +2,7 @@ coverage
 pytest-cov
 codecov
 Flask
-
+gunicorn
 
 
 
