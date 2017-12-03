@@ -8,7 +8,6 @@
   ],
   "website": "http://alectronic-flask.herokuapp.com/",
   "repository": "https://github.com/alectronic0/alectronic-flask",
-  "logo": "",
   "success_url": "/",
   "scripts": {},
   "env": {},
